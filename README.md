@@ -22,3 +22,4 @@ Encoding the IFC schema in an [MOF](https://en.wikipedia.org/wiki/Meta-Object_Fa
 * Experimenting with [MMT](https://en.wikipedia.org/wiki/MMT_(Eclipse)) for cross-domain schema interoperability
 * Developing open, extensible industry "workbench" tools based on [EMF](https://en.wikipedia.org/wiki/Eclipse_Modeling_Framework) and [OSGi](https://en.wikipedia.org/wiki/Equinox_(OSGi))
 
+To learn more about the mapping strategies reeper uses, review the header comments of each mapping_*.rb file in the [reeper project repository](https://sourceforge.net/p/reeper/code/ci/master/tree/). 
